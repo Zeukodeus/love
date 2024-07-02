@@ -238,7 +238,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #f9fd25;
+  background-color: #ea899a;
   /* background-color: #fd2525; */
   filter: blur(10vmin);
 }
