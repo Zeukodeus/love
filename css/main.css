@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+.italic {
+  font-style: italic;
+}
+
 :root {
   --dark-color: #000;
 }
